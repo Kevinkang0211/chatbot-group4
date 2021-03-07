@@ -10,12 +10,15 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 - google map API
 - Line messaging API
 - 爬蟲相關工具(Selenium、Beautifulsoup...)
-
-
-## Prerequisites
-
-This sample **requires** prerequisites in order to run.
-
+- 
+## 開發主題緣由、介紹
+![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%871.jpeg)
+![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%873.jpeg)
+![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%874.jpeg)
+![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%875.jpeg)
+![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%876.jpeg)
+![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%877.jpeg)
+![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%878.jpeg)
 ### Install Python 3.6
 
 ## Running the sample
