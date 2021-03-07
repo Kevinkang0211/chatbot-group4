@@ -61,6 +61,15 @@ e.g. 我想在文山區喝咖啡
 <img src="https://github.com/Kevinkang0211/chatbot-group4/blob/master/demo_%E8%A9%95%E8%AB%96.png" width="500" height="900">
 
 
+## 作法
+- 透過Azure的自然語言模型LUIS來對使用者的輸入進行分析判斷，知道其intent後以擷取句子中的entity來進行相對應的推薦
+- 透過QnA Maker建立知識庫，以及聊天機器人相對應的問與答支援
+- 使用google map API查看餐廳的地理位置以及相對應的評分
+- 透過BOT Framework模擬器來模擬、測試ai chatbot功能
+- 利用beautifulsoup、selenium等模組進行美食部落爬蟲
+- 以Line作為channel跟使用者互動
+
+
 ### Install Python 3.6
 
 ## Running the sample
