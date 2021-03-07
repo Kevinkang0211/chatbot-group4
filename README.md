@@ -18,7 +18,7 @@
 ![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%877.jpeg)
 ![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%878.jpeg)
 
-## APP DEMO Screenshot
+## APP DEMO 畫面
 加入好友
 
 <img src="https://github.com/Kevinkang0211/chatbot-group4/blob/master/demo_%E5%8A%A0%E5%85%A5%E5%A5%BD%E5%8F%8B.png" width="500" height="900">
