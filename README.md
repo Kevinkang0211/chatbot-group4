@@ -1,7 +1,8 @@
 ### 2021 Microsoft x TSMC careerhack 決賽
 ### 主題：聊天機器人 - 美食公道伯
 
-## 開發工具
+## 開發語言、工具及服務
+- Python 3.6
 - Microsoft Azure Service, including LUIS, SQL database, Application Insights.
 - QnA Maker
 - google map API
