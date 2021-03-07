@@ -10,7 +10,7 @@
 - 爬蟲相關工具(Selenium、Beautifulsoup...)
 
 
-## 開發主題緣由、介紹
+## 主題緣由、介紹
 ![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%871.jpeg)
 ![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%873.jpeg)
 ![image](https://github.com/Kevinkang0211/chatbot-group4/blob/master/%E6%8A%95%E5%BD%B1%E7%89%874.jpeg)
