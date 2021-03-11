@@ -67,7 +67,10 @@ e.g. 我想在文山區喝咖啡
 - 利用beautifulsoup、selenium等模組進行美食部落爬蟲
 - 以Line作為channel跟使用者互動
 
+## Chatbot Flow
 
+<img src="https://github.com/Kevinkang0211/chatbot-group4/blob/master/chatbot flow.jpg" width="350" height="200">
+<img src="https://github.com/Kevinkang0211/chatbot-group4/blob/master/chatbot flow2.jpg" width="350" height="200">
 ### Install Python 3.6
 
 ## Running the sample
