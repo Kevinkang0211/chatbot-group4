@@ -69,8 +69,9 @@ e.g. 我想在文山區喝咖啡
 
 ## Chatbot Flow
 
-<img src="https://github.com/Kevinkang0211/chatbot-group4/blob/master/chatbot flow.jpg" width="350" height="200">
-<img src="https://github.com/Kevinkang0211/chatbot-group4/blob/master/chatbot flow2.jpg" width="350" height="200">
+<img src="https://github.com/Kevinkang0211/chatbot-group4/blob/master/chatbot flow.jpg" width="450" height="300">
+<img src="https://github.com/Kevinkang0211/chatbot-group4/blob/master/chatbot flow2.jpg" width="450" height="300">
+
 ### Install Python 3.6
 
 ## Running the sample
